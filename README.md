@@ -1,4 +1,4 @@
-
+[credits.csv](https://github.com/user-attachments/files/21357507/credits.csv)
 # 📺 Amazon Prime Video EDA Project
 
 ## 🔍 Exploratory Data Analysis of Amazon Prime Content
@@ -8,6 +8,8 @@ This project performs a detailed exploratory data analysis (EDA) on Amazon Prime
 ---
 
 ## 📁 Dataset
+- Credits : [Uploading credits.csv…]()
+
 
 The dataset includes metadata about Amazon Prime Video titles such as:
 
